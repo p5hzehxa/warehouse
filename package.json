@@ -28,7 +28,7 @@
     "@zxcvbn-ts/core": "^3.0.4",
     "@zxcvbn-ts/language-common": "^3.0.4",
     "@zxcvbn-ts/language-en": "^3.0.2",
-    "admin-lte": "^3.2.0",
+    "admin-lte": "^4.0.0",
     "date-fns": "^4.1.0",
     "debounce": "^1.2.1",
     "jquery": "^3.7.0",
